@@ -95,6 +95,10 @@ advice, don't create an attorney-client relationship, and don't replace attorney
 Check your state bar's rules on generative AI, confidentiality and online reviews before
 adopting them.
 
+## Licence
+
+MIT - free to use, adapt and share, including inside your firm. See [LICENSE](LICENSE).
+
 ---
 
 Built by **Lanos Logic**. We build the systems behind immigration law firms: client
