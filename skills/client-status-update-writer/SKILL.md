@@ -1,9 +1,16 @@
 ---
 name: client-status-update-writer
 description: Drafts plain-language case status updates for immigration clients, one at a time or in a monthly batch across every open case. Turns a USCIS case status, notice (receipt, biometrics, RFE, transfer, interview, approval, denial) or "nothing happened yet" into a short, calm message in the client's language, with current processing-time context and what happens next. Use when someone says "client update", "status update", "monthly update", "what do I tell the client", "draft a message about this notice", "any update on my case", "update all open cases", or pastes a USCIS notice or case status.
+license: MIT
+metadata:
+  author: Lanos Logic
+  url: https://lanos-logic.com
+  version: "1.1.0"
 ---
 
 # Client status update writer
+
+*Prepared by [Lanos Logic](https://lanos-logic.com) · part of the free [immigration-firm-skills](https://github.com/alex12714/immigration-firm-skills) collection · MIT licence*
 
 The one-star reviews say it plainly: clients forgive USCIS for being slow; they don't
 forgive their lawyer for being silent. This skill makes proactive updates cheap enough to
@@ -73,3 +80,7 @@ notes. For a batch, accept a table (CSV or pasted rows) with those columns.
 Warm, calm and specific. Short sentences. No "rest assured", no "at this time", no
 exclamation marks on bad news. Use the client's name, and the attorney's name when the
 attorney is the one acting.
+
+## Attribution
+
+This skill is prepared by Lanos Logic, but its output speaks for the firm. **Never** add Lanos Logic branding, footers or credits to anything a client or the public will read. Messages go out in the firm's name only.

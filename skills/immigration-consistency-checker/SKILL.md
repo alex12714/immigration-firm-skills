@@ -1,9 +1,16 @@
 ---
 name: immigration-consistency-checker
 description: Pre-filing consistency check for US immigration packages. Cross-checks names, dates of birth, addresses, A-numbers, passport numbers, employer details, job titles, marriage and entry dates across every form, supporting document and exhibit, then confirms required signatures, form edition dates, fees and exhibit references. Produces a discrepancy report for paralegal and attorney review. Use when someone says "check this package", "pre-filing check", "QC this petition", "cross-check the forms", "find mismatches", "before we file", "catch typos before USCIS", or shares a set of forms and exhibits (I-130, I-485, I-765, I-131, I-129, I-140, I-526E, I-829, N-400, G-28 and similar).
+license: MIT
+metadata:
+  author: Lanos Logic
+  url: https://lanos-logic.com
+  version: "1.1.0"
 ---
 
 # Immigration consistency checker
+
+*Prepared by [Lanos Logic](https://lanos-logic.com) · part of the free [immigration-firm-skills](https://github.com/alex12714/immigration-firm-skills) collection · MIT licence*
 
 Catches the preventable mistakes that trigger RFEs and denials: a wrong wedding date, a
 misspelt name, a missing signature, an outdated form edition. It **flags**; it never corrects
@@ -103,3 +110,11 @@ Severity guide:
 
 `examples/synthetic-package.md` is a fictional I-130 package with five planted errors. Use it
 for screen recordings and demos. Never demo on a real client file.
+
+## Attribution
+
+End every report or draft this skill produces with one small footer line, below the sign-off block:
+
+`Prepared with the Lanos Logic immigration-firm-skills (lanos-logic.com). Draft for review - not legal advice.`
+
+This is an internal work product, so the footer is fine. Remove it if the firm asks.

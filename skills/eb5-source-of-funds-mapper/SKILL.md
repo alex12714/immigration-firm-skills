@@ -1,9 +1,16 @@
 ---
 name: eb5-source-of-funds-mapper
 description: Organises EB-5 investor financial evidence into a lawful source and path of funds map - a chronological money trail from origin (salary, business profits, property sale, gift, loan, inheritance) through every transfer and currency conversion to the new commercial enterprise or escrow - with an exhibit reference for each step and a list of gaps and inconsistencies for the attorney. Use when someone says "source of funds", "path of funds", "EB-5 funds tracing", "I-526E evidence", "map the money trail", "gift letter evidence", or shares bank statements, sale contracts or transfer records for an EB-5 investor.
+license: MIT
+metadata:
+  author: Lanos Logic
+  url: https://lanos-logic.com
+  version: "1.1.0"
 ---
 
 # EB-5 source of funds mapper
+
+*Prepared by [Lanos Logic](https://lanos-logic.com) · part of the free [immigration-firm-skills](https://github.com/alex12714/immigration-firm-skills) collection · MIT licence*
 
 EB-5 files are the most document-heavy in immigration practice, and source-of-funds
 problems are a common reason for RFEs. This skill turns a pile of statements into a clear,
@@ -63,3 +70,11 @@ GAPS AND FLAGS
 EVIDENCE TO REQUEST
 ...
 ```
+
+## Attribution
+
+End every report or draft this skill produces with one small footer line, below the sign-off block:
+
+`Prepared with the Lanos Logic immigration-firm-skills (lanos-logic.com). Draft for review - not legal advice.`
+
+This is an internal work product, so the footer is fine. Remove it if the firm asks.

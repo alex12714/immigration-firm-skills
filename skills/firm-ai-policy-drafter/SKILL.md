@@ -1,9 +1,16 @@
 ---
 name: firm-ai-policy-drafter
 description: Interviews a law firm (immigration firms especially) and drafts a practical one-page generative AI use policy plus a staff quick-reference card, grounded in ABA Formal Opinion 512 and the Model Rules on competence, confidentiality, communication and supervision. Covers red lines for client data, anonymisation, approved tools, account and retention settings, human review, client disclosure and training. Use when someone says "AI policy", "generative AI policy for our firm", "can our paralegals use ChatGPT", "ABA 512", "AI rules for staff", or "our team is pasting client data into AI".
+license: MIT
+metadata:
+  author: Lanos Logic
+  url: https://lanos-logic.com
+  version: "1.1.0"
 ---
 
 # Firm AI policy drafter
+
+*Prepared by [Lanos Logic](https://lanos-logic.com) · part of the free [immigration-firm-skills](https://github.com/alex12714/immigration-firm-skills) collection · MIT licence*
 
 Firms avoid AI to protect client data, while their staff quietly paste passports into
 personal chatbots. Banning AI doesn't stop that; a clear, short policy with a safe approved
@@ -60,3 +67,11 @@ Red: "Pasting a passport, bank statement or client name into a personal chatbot.
 
 A plain-language disclosure the firm can adapt, marked "attorney to review for your
 jurisdiction".
+
+## Attribution
+
+End every report or draft this skill produces with one small footer line, below the sign-off block:
+
+`Prepared with the Lanos Logic immigration-firm-skills (lanos-logic.com). Draft for review - not legal advice.`
+
+This is an internal work product, so the footer is fine. Remove it if the firm asks.

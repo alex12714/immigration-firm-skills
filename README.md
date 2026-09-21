@@ -1,5 +1,7 @@
 # Claude skills for immigration law firms
 
+*Prepared by [Lanos Logic](https://lanos-logic.com), the team behind the systems that run immigration law firms: client updates, intake and pre-filing checks.*
+
 Nine [Claude Agent Skills](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
 that take the operational load off US immigration firms: pre-filing checks, client updates,
 document chasing, RFE organisation, EB-5 source-of-funds mapping and more.

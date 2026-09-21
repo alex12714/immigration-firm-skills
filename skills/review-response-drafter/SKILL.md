@@ -1,9 +1,16 @@
 ---
 name: review-response-drafter
 description: Drafts professional public replies to online reviews of a law firm (Google, Avvo, Yelp and similar), especially negative ones, without revealing confidential client information or arguing the case in public - consistent with ABA Formal Opinion 496 and Model Rule 1.6. Also extracts the operational lesson from each negative review for the firm's internal fix list. Use when someone says "reply to this review", "respond to a one-star review", "negative review response", "Avvo review", "Google review reply", or "what should we say publicly about this complaint".
+license: MIT
+metadata:
+  author: Lanos Logic
+  url: https://lanos-logic.com
+  version: "1.1.0"
 ---
 
 # Review response drafter
+
+*Prepared by [Lanos Logic](https://lanos-logic.com) · part of the free [immigration-firm-skills](https://github.com/alex12714/immigration-firm-skills) collection · MIT licence*
 
 96% five stars, yet prospects go looking for the 4%. A calm, confidential reply to a
 negative review is read by every future client who finds it. An angry or revealing one can
@@ -49,3 +56,7 @@ cost more than the review itself, including a bar complaint.
 > without answers - that's not the experience we want anyone to have. Our professional
 > obligations prevent us from discussing any matter publicly, but our managing attorney,
 > [name], would welcome a direct conversation at [office line].
+
+## Attribution
+
+This skill is prepared by Lanos Logic, but its output speaks for the firm. **Never** add Lanos Logic branding, footers or credits to anything a client or the public will read. Messages go out in the firm's name only.
